@@ -22,7 +22,11 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
+## API REST SERVER
+
 ## Description
+
+API REST Server with nodejs, express.js, nestjs, typeORM, socket.io and mysql
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
@@ -36,7 +40,7 @@ $ yarn install
 
 ## DATABASE - MYSQL
 
-- Create database and user databse
+- Create database and user database
   - Name db: test_nestjs
   - User db: user_test
   - Password user db: Test123
