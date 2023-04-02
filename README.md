@@ -63,6 +63,10 @@ $ yarn run start:dev
 $ yarn run start:prod
 ```
 
+## Examples collections potsman
+
+Check the /examples-collections-postman directory and import into postman the file base-nestjs-mysql.postman_collection.json to start the tests with the example controllers(api)
+
 ## Test
 
 ```bash
