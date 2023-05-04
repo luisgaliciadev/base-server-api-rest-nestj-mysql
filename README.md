@@ -54,7 +54,7 @@ Execute get:
 
 ```bash
 # development
-$ yarn run start
+$ yarn start:dev
 
 # watch mode
 $ yarn run start:dev
